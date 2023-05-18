@@ -1,5 +1,5 @@
 Here are both my custom wordlists and some thats circulating on the web. Now the DNS and directory (most) files are too big so i'll just list which one i use here. 
-Most of them are from https://wordlists.assetnote.io also i sometimes use wordlists from SecLists. Other resources for paramater wordlists are from ex param-miner.
+Most of them are from https://wordlists.assetnote.io also i sometimes use wordlists from SecLists and some other resources. Other resources for paramater wordlists are from ex param-miner.
 
 • DNS
 - dns-jhaddix.txt   26k KB
