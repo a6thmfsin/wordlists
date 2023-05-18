@@ -1,0 +1,11 @@
+LFI - grep -e "cat=" -e "dir=" -e "action=" -e "board=" -e "date=" -e "detail=" -e "file=" -e "download=" -e "path" -e "folder=" -e "prefix=" -e "include=" -e "page=" -e "inc=" -e "locate=" -e "show=" -e "doc=" -e "site=" -e "type=" -e "view=" -e "content=" -e "document=" -e "layout=" -e "mod=" -e "conf="
+
+Open Redirect - grep -e "next=" -e "url=" -e "target=" -e "rurl=" -e "dest=" -e "destination=" -e "redir=" -e "redirect_uri" -e "redirect_url=" -e "redirect=" -e "out=" -e "view=" -e "to=" -e "image_url=" -e "go=" -e "return=" -e "returnTo=" -e "return_to=" -e "checkout_url=" -e "continue=" -e "return_path="
+
+RCE - grep -a -e "?cmd=" -e "?locale=" -e "?sys=" -e "?username=" -e "?user=" -e "?system=" -e "?firstname=" -e "?lastname=" -e "?mode=" -e "?blogId=" -e "?shopId=" -e "?phone=" -e "?exec=" -e "?command=" -e "?execute=" -e "?ping=" -e "?query=" -e "?jump=" -e "?code" -e "?reg=" -e "?do=" -e "?func=" -e "?arg=" -e "?option=" -e "?load=" -e "?process=" -e "?step=" -e "?read=" -e "?feature=" -e "?exe=" -e "?module=" -e "?payload=" -e "?run=" -e "?print="
+
+SQLi - grep -e "id=" -e "page=" -e "report=" -e "dir=" -e "search=" -e "category=" -e "file=" -e "class" -e "url=" -e "news=" -e "item=" -e "menu=" -e "lang=" -e "name=" -e "ref=" -e "title=" -e "view=" -e "topic=" -e "thread=" -e "type=" -e "date=" -e "form=" -e "main=" -e "nav=" -e "region="
+
+SSRF - grep -e "dest=" -e "redirect=" -e "uri=" -e "path=" -e "continue=" -e "url=" -e "window=" -e "next=" -e "data=" -e "reference=" -e "site=" -e "html=" -e "val=" -e "validate=" -e "domain=" -e "callback=" -e "return=" -e "page=" -e "feed=" -e "host=" -e "port=" -e "to=" -e "out=" -e "view=" -e "dir="
+
+XSS - grep -e "q=" -e "s=" -e "search=" -e "id=" -e "lang=" -e "keyword=" -e "query=" -e "page=" -e "keywords=" -e "year=" -e "view=" -e "email=" -e "type=" -e "name=" -e "p=" -e "month=" -e "image=" -e "list_type=" -e "url=" -e "terms=" -e "categoryid=" -e "key=" -e "l=" -e "begindate=" -e "enddate="

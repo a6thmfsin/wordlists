@@ -1,0 +1,4 @@
+Regex: \?[\w\W]+?=
+Regex2: \?[a-zA-Z]{0,5}=
+
+grep -oE ‘\?[a-zA-Z]{0,5}=’ file.txt

