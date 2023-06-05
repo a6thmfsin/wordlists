@@ -867,3 +867,9 @@ hosts
 seed
 rootdomain
 root-domain
+testing-enviroment
+www5
+www4
+www3
+www2
+www1
