@@ -1,2 +1,2 @@
-Dirty-Simple-XSS-Strig: <>\/`'"():;=
+Dirty-Simple-XSS-Strig: <>\/`'"():;= 
 Dirty-Bypass-XSS-String: <>\/`'"():;={}[]《》*&#
