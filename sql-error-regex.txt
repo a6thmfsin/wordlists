@@ -1,0 +1,36 @@
+(SQL syntax error|SQLSTATE|ERROR:\s+\d+|\bSQL\b.*error|PDOException|DB Error|ORA-\d+|MySQL error|Microsoft SQL Server Native Client|PostgreSQL|DB2 SQL error)
+
+
+MySQL/MariaDB:
+(SQL syntax error|MySQL server error|SQL syntax|MariaDB error|1064|Error Code: [0-9]+|You have an error in your SQL syntax|Syntax error)
+
+PostgreSQL:
+(PostgreSQL error|syntax error at or near|ERROR: syntax error|relation does not exist|syntax error)
+
+Microsoft SQL Server:
+(Microsoft SQL Server error|Unclosed quotation mark|Incorrect syntax near|Msg [0-9]+|Error converting data type)
+
+Oracle:
+(ORA-\d+|Oracle error|PL\/SQL: SQL Statement ignored|ORA-|Error [-0-9]+ at line|SQL command not properly ended)
+
+SQLite:
+(SQLite error|SQLiteException|near \"[^\"]+\":[^ ]+|syntax error)
+
+IBM DB2:
+(DB2 SQL error|SQLCODE=[-0-9]+|DB2 SQL Error|SQLSTATE=[0-9A-Z]+|DB2/SQL)
+
+
+NoSQL
+
+MongoDB:
+(MongoDB error|WriteError|ReadError|ValidationError|E[0-9]+|errmsg)
+
+Cassandra:
+(Cassandra error|InvalidRequestException|SyntaxException|NoHostAvailableException)
+
+Redis:
+(Redis error|WRONGTYPE Operation|ERR [A-Z]+)
+
+Couchbase:
+(Couchbase error|DocumentNotFoundException|PathNotFoundException|ServerOutOfMemoryError)
+
