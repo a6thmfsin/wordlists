@@ -11,3 +11,5 @@ Most of them are from https://wordlists.assetnote.io also i sometimes use wordli
 - 1m-directories.txt   14k KB
 - 62k-directories.txt   530 KB
 - cloud-metadata-directories.txt   2 KB
+
+Also i recommend to check out @Orwathegodfather's wordlists, they are very good.
